@@ -30,6 +30,6 @@ OS I currently use or have used previously:
 
 ### <img src="https://media.giphy.com/media/fxT9TYmgjBloBaLxL2/giphy.gif" width="50" alt="Stats"> Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-weird-aquarian&show_icons=true&bg_color=-30,13547A,80D0C7&title_color=FAFAFA&text_color=FAFAFA&icon_color=FAFAFA)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-weird-aquarian&show_icons=true&bg_color=10,1A2980,26D0CE&title_color=FAFAFA&text_color=FAFAFA&icon_color=FAFAFA)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-weird-aquarian&layout=compact&bg_color=-30,13547a,80d0c7&title_color=FAFAFA&text_color=FAFAFA)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-weird-aquarian&layout=compact&bg_color=10,1A2980,26D0CE&title_color=FAFAFA&text_color=FAFAFA)
