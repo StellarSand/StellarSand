@@ -1,4 +1,4 @@
-<h2 align="center"> < Hello World /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Hello" align="center" ></h2>
+<h2 align="center"> < Hello World /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Hello World"></h2>
 
 ### <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="50"> About Me
 
