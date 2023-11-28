@@ -1,4 +1,4 @@
-<h2 align="center"> < Hello World /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hello"></h2>
+<h2 align="center"> < Hello World /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Hello"></h2>
 
 ### <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="50"> About Me
 
@@ -28,6 +28,6 @@
 
 ### <img src="https://media.giphy.com/media/fxT9TYmgjBloBaLxL2/giphy.gif" width="60" alt="Stats"> Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=StellarSand&show_icons=true&bg_color=10,1A2980,26D0CE&title_color=FAFAFA&text_color=FAFAFA&icon_color=FAFAFA)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=StellarSand&show_icons=true&bg_color=-30,121212,FFD54F&title_color=FAFAFA&text_color=FAFAFA&icon_color=FAFAFA)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSand&layout=compact&bg_color=10,1A2980,26D0CE&title_color=FAFAFA&text_color=FAFAFA)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSand&layout=compact&bg_color=-30,121212,FFD54F&title_color=FAFAFA&text_color=FAFAFA)
