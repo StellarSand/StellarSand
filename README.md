@@ -24,6 +24,6 @@
 
 ### <img src="https://media.giphy.com/media/fxT9TYmgjBloBaLxL2/giphy.gif" width="60" alt="Stats"> Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=StellarSand&show_icons=true&bg_color=-20,141414,1c39bb&title_color=FAFAFA&text_color=FAFAFA&icon_color=FAFAFA)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=StellarSand&show_icons=true&bg_color=-20,141414,1c39bb&title_color=FAFAFA&text_color=FAFAFA&icon_color=FAFAFA&rank_icon=percentile)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSand&layout=compact&bg_color=-20,141414,1c39bb&title_color=FAFAFA&text_color=FAFAFA)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StellarSand&layout=pie&bg_color=-20,141414,1c39bb&title_color=FAFAFA&text_color=FAFAFA)
