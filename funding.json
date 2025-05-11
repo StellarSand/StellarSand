@@ -21,6 +21,7 @@
       },
       "repositoryUrl": {
         "url": "https://github.com/StellarSand/privacy-settings"
+        "wellKnown": "https://github.com/StellarSand/privacy-settings/blob/main/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:MIT"
@@ -46,6 +47,7 @@
       },
       "repositoryUrl": {
         "url": "https://github.com/StellarSand/IYPS"
+        "wellKnown": "https://github.com/StellarSand/IYPS/blob/main/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:GPL-3.0"
@@ -66,6 +68,7 @@
       },
       "repositoryUrl": {
         "url": "https://github.com/StellarSand/Password-Monitor"
+        "wellKnown": "https://github.com/StellarSand/Password-Monitor/blob/main/.well-known/funding-manifest-urls"
       },
       "licenses": [
         "spdx:GPL-3.0"
